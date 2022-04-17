@@ -7,6 +7,6 @@ article_header:
     src: /screenshot.jpg
 ---
 
-Linares es un poco inepto 
+Linares es un poco genio 
 
 <!--more-->
