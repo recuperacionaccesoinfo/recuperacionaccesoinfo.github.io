@@ -1,11 +1,8 @@
 ---
 title: ¿Qué es la Recuperación y acceso a la información?
 tags: TeXt
-article_header:
-  type: cover
-  image:
-    src: /screenshot.jpg
 ---
+
 
 La recuperación y acceso a la información es la ciencia que se encarga de buscar información en conjuntos de documentos electrónicos, información que comprende datos, metadatos, bases de datos, con el objetivo de recuperar textos, imágenes u otro tipo de datos. Para alcanzar este objetivo, la recuperación y acceso a la información se basa y sustenta en los sistemas de información.
 
