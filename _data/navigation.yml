@@ -1,4 +1,16 @@
 header:
+
+  - titles:
+      # @start locale config
+      en      : &EN       AWS
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      
+      # @end locale config
+    url: /aws.html
+    
   - titles:
       # @start locale config
       en      : &EN       Archive
@@ -50,17 +62,6 @@ header:
       tr      : &TR       Hakkında
       # @end locale config
     url: /about.html
-
-  - titles:
-      # @start locale config
-      en      : &EN       AWS
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      
-      # @end locale config
-    url: /aws.html
     
 
 
