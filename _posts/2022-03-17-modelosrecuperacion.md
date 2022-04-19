@@ -1,6 +1,6 @@
 ---
 title: Modelos de recuperación y acceso a la información
-tags: TeXt
+tags: RAI
 ---
 
 Se detallan en el presente artículo los modelos más utilizados en la Recuperación y Acesso a la Información, que son comúnmente denominados "modelos clásicos":

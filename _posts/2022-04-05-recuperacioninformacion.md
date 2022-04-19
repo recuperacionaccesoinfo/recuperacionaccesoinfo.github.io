@@ -1,6 +1,6 @@
 ---
 title: ¿Qué es la Recuperación y acceso a la información?
-tags: TeXt
+tags: RAI
 ---
 
 

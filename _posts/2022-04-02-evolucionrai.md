@@ -1,6 +1,6 @@
 ---
 title: Evolución de la Recuperación y Acceso a la información
-tags: TeXt
+tags: RAI
 ---
 En los últimos años del siglo XX el problema del Acceso y Recuperación a la Información expermientó una revolución que todavía hoy continúa. La red ha ido creciendo de forma exponencial, lo que ha provocado que una recuperación eficiente de información sea una tarea cada vez más compleja. Para empezar, lo que en origen consistía únicamente en búsquedas en documentos de texto, se ha transformado de manera que los buscadores ahora son utilizados para encontrar audios, vídeos, imágenes, etc.
 
