@@ -2,14 +2,12 @@
 title: Evolución de la Recuperación y Acceso a la información
 tags: TeXt
 ---
+En los últimos años del siglo XX el problema del Acceso y Recuperación a la Información expermientó una revolución que todavía hoy continúa. La red ha ido creciendo de forma exponencial, lo que ha provocado que una recuperación eficiente de información sea una tarea cada vez más compleja. Para empezar, lo que en origen consistía únicamente en búsquedas en documentos de texto, se ha transformado de manera que los buscadores ahora son utilizados para encontrar audios, vídeos, imágenes, etc.
 
+Además, los buscadores hacen posible una recuperación y acceso a la información más sencilla para los usuarios finales, ya que, gracias al enorme volumen de consultas y búsquedas realizadas durante los últimos años, se ha conseguido mejorar los algoritmos de búsqueda y recuperación.
 
-La recuperación y acceso a la información es la ciencia que se encarga de buscar información en conjuntos de documentos electrónicos. La información se puede recuperar a través de herramientas tales como Internet, bases de datos, mapas, ontologías, etc. El grado de conocimiento de estas herramientas determina la eficiencia y la calidad de la recuperación y el acceso a la información.
-
-Para alcanzar este objetivo, la recuperación y acceso a la información se basa y sustenta en los sistemas de información. 
-
-La recuperación y acceso a la información requiere la posibilidad de establecer una serie de reglas de búsqueda específicas. Esta opción nos la brindan las herramientas mencionadas en el párrafo anterior. No obstante, para una adecuada recuperación de información, dicha información debe haber sido estructurada previamente.
-
-Los motores de búsqueda son sistemas informáticos que buscan documentos en servidores web. Un ejemplo de motores de búsqueda son los buscadores de internet, como Google o Yahoo. Una vez el usuario introduce una o varias palabras clave en el buscador, el motor se encarga de recopilar todas las páginas web y/o documentos que puedan tener relación con estas. Dichos motores de búsqueda son clave a la hora de recuperar información. 
+Actualmente, los Sistemas de Recuperación y Acceso a la Información están experimentando grandes y positivos cambios debido a la integración continua de tecnologías tales como la Inteligencia Artificial, que permite definir una serie de estrategias para que los buscadores puedan "conocer" y adaptarse a los usuarios. 
+Se han incorporado, además, funcionalidades como las sugerencias (el típico "Quizás quisiste decir" que todos nos hemos encontrado alguna vez en Google) o las búsquedas relacionadas (consultas diferentes que podrían producir resultados similares) que permiten que la Recuperación y Acceso a la Información sea mucho más amigable para los usuarios.
+ 
 
 <!--more-->
