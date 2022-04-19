@@ -152,7 +152,7 @@ analytics:
 
   ## Google Analytics
   google:
-    tracking_id : G-PCZWDCBLWF # Google Analytics id for the site
+    tracking_id : "G-PCZWDCBLWF" # Google Analytics id for the site
     anonymize_ip: true # Anonymize IP tracking for Analytics
 
 
