@@ -9,57 +9,57 @@
 
 <url>
   <loc>https://recuperacionaccesoinfo.es/</loc>
-  <lastmod>2022-04-19T14:43:40+00:00</lastmod>
+  <lastmod>2022-04-19T18:39:34+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
+  <loc>https://recuperacionaccesoinfo.es/aws.html</loc>
+  <lastmod>2022-04-19T18:39:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://recuperacionaccesoinfo.es/archive.html</loc>
-  <lastmod>2022-04-19T14:43:40+00:00</lastmod>
+  <lastmod>2022-04-19T18:39:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://recuperacionaccesoinfo.es/about.html</loc>
-  <lastmod>2022-04-19T14:43:40+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://recuperacionaccesoinfo.es/aws.html</loc>
-  <lastmod>2022-04-19T14:43:40+00:00</lastmod>
+  <lastmod>2022-04-19T18:39:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://recuperacionaccesoinfo.es/2022/04/05/recuperacioninformacion.html</loc>
-  <lastmod>2022-04-19T14:43:40+00:00</lastmod>
+  <lastmod>2022-04-19T18:39:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://recuperacionaccesoinfo.es/archive.html?tag=RAI</loc>
-  <lastmod>2022-04-19T14:43:40+00:00</lastmod>
+  <lastmod>2022-04-19T18:39:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://recuperacionaccesoinfo.es/2022/04/02/evolucionrai.html</loc>
-  <lastmod>2022-04-19T14:43:40+00:00</lastmod>
+  <lastmod>2022-04-19T18:39:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://recuperacionaccesoinfo.es/2022/03/23/modelosrecuperacion.html</loc>
-  <lastmod>2022-04-19T14:43:40+00:00</lastmod>
+  <lastmod>2022-04-19T18:39:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://recuperacionaccesoinfo.es/2022/03/17/cloudbigdata.html</loc>
-  <lastmod>2022-04-19T14:43:40+00:00</lastmod>
+  <lastmod>2022-04-19T18:39:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://recuperacionaccesoinfo.es/archive.html?tag=Cloud%2C</loc>
-  <lastmod>2022-04-19T14:43:40+00:00</lastmod>
+  <loc>https://recuperacionaccesoinfo.es/archive.html?tag=Cloud</loc>
+  <lastmod>2022-04-19T18:39:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://recuperacionaccesoinfo.es/archive.html?tag=BigData</loc>
-  <lastmod>2022-04-19T14:43:40+00:00</lastmod>
+  <lastmod>2022-04-19T18:39:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
