@@ -9,7 +9,7 @@ header:
       en-AU   : *EN
       
       # @end locale config
-    url: /aws
+    url: /aws/cloud
     
   - titles:
       # @start locale config
