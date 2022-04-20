@@ -65,13 +65,13 @@ layouts:
   - title: Contenido
     children:
       - title:  AWS DinamoDB
-        url:    /page/single.html
+        url:    /topics/dinamo.html
       - title:  Azure HD Insight
-        url:    /page/aside.html
+        url:    /topics/azure.html
       - title:  Elastichsearch
-        url:    /page/sidebar.html
+        url:    /topics/els.html
       - title:  Datalab
-        url:    /page/sidebar.html
+        url:    /topics/datalab.html
     
 
 
