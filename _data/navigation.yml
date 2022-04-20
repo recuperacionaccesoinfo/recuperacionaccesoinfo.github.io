@@ -1,15 +1,14 @@
 header:
-
   - titles:
       # @start locale config
-      en      : &EN       AWS
+      en      : &EN       Temas
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
       
       # @end locale config
-    url: /aws/cloud
+    url: /topics.html
     
   - titles:
       # @start locale config
@@ -59,9 +58,20 @@ header:
       fr-CH   : *FR
       fr-FR   : *FR
       fr-LU   : *FR
-      tr      : &TR       Hakkında
       # @end locale config
     url: /about.html
+
+layouts:
+  - title: Contenido
+    children:
+      - title:  AWS DinamoDB
+        url:    /page/single.html
+      - title:  Azure HD Insight
+        url:    /page/aside.html
+      - title:  Elastichsearch
+        url:    /page/sidebar.html
+      - title:  Datalab
+        url:    /page/sidebar.html
     
 
 
