@@ -8,7 +8,7 @@ header:
       en-AU   : *EN
       
       # @end locale config
-    url: /topics.html
+    url: /topics/dinamo.html
     
   - titles:
       # @start locale config

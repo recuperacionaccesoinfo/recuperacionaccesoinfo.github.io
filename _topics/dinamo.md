@@ -1,7 +1,7 @@
 ---
 layout: article
-title: Page - Single
-permalink: /topics.html
+title: Dinamo
+permalink: /dinamo.html
 sidebar:
   nav: layouts
 ---
