@@ -1,8 +1,7 @@
 ---
 title: ¿Qué es la Recuperación y Acceso a la Información?
-tags: Recuperación y Acceso a la Información
+tags: RAI
 ---
-
 
 La Recuperación y Acceso a la Información es la ciencia que se encarga de buscar información en conjuntos de documentos electrónicos. La información se puede recuperar a través de herramientas tales como Internet, bases de datos, mapas, ontologías, etc. El grado de conocimiento de estas herramientas determina la eficiencia y la calidad de la recuperación y el acceso a la información.
 

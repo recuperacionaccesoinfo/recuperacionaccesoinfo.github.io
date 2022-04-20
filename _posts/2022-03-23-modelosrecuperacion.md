@@ -1,11 +1,12 @@
 ---
 title: Modelos de Recuperación y Acceso a la Información
-tags: Recuperación y Acceso a la Información
+tags: RAI
 ---
 
 Se detallan en el presente artículo los modelos más utilizados en la Recuperación y Acesso a la Información, que son comúnmente denominados "modelos clásicos":
 
 **- Modelo booleano:** En este modelo de Recuperación y Acceso a la Información cada documento tiene asociada una variable booleana por cada término de búsqueda. El valor de esta variable será 1 si el término de búsqueda aparece en el documento o 0 si no aparece. Por tanto, cada documento se De esta manera surgen una serie de operadores lógicos que posibilitan la creación de reglas relacionadas con la presencia de uno o varios términos en un documento seleccionado. Estos operadores son:
+
 **-OR:**t1 OR t2 indica que se seleccionen los documentos que tengan presente, ó bien t1, ó bien t2.
 
 **-AND:** t1 AND t2 indica que se seleccionen los documentos que tengan presente tanto t1 como t2.
