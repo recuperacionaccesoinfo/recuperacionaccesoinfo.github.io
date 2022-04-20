@@ -8,7 +8,7 @@ header:
       en-AU   : *EN
       
       # @end locale config
-    url: /topics/dinamo.html
+    url: /dinamo.html
     
   - titles:
       # @start locale config
@@ -65,13 +65,13 @@ layouts:
   - title: Contenido
     children:
       - title:  AWS DinamoDB
-        url:    /topics/dinamo.html
+        url:    /dinamo.html
       - title:  Azure HD Insight
-        url:    /topics/azure.html
+        url:    /azure.html
       - title:  Elastichsearch
-        url:    /topics/els.html
+        url:    /els.html
       - title:  Datalab
-        url:    /topics/datalab.html
+        url:    /datalab.html
     
 
 
