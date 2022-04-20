@@ -5,7 +5,9 @@
 {%- include snippets/get-article-title.html article=page -%}
 <title>{%- if __return -%}{{ __return }} - {{ site.title }}{%- else -%}{{ site.title }}{%- endif -%}</title>
 
-<meta name="description" content="{%- if page.excerpt -%}{{ page.excerpt | strip_html | strip_newlines | strip | truncate: 160 }}{%- else -%}{{ site.description }}{%- endif -%}">
+<!--<meta name="description" content="{%- if page.excerpt -%}{{ page.excerpt | strip_html | strip_newlines | strip | truncate: 160 }}{%- else -%}{{ site.description }}{%- endif -%}">-->
+<meta name="description" content="Página web de la asignatura Recuperación y Acceso a la Información donde se tratan temas como que es la Recuperación y Acceso a la Información, evolucion de la Recuperación y Acceso a la Información, actualidad sobre Recuperación y Acceso a la Información y más...">
+
 <link rel="canonical" href="{%- include snippets/page-url.html -%}">
 
 {%- assign _paths_rss = site.paths.rss | default: site.data.variables.default.paths.rss -%}
