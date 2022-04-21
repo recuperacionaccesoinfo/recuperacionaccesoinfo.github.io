@@ -23,7 +23,7 @@ Además un administrador puede ver las métricas de uso de DynamoDB con [Amazon 
 
 ## DynamoDB vs MongoDB
 
-## Elegir entre DinamoDB y MongoDB
+### Elegir entre DinamoDB y MongoDB
 
 Elegir la base de datos correcta no es una elección fácil. Depende de una multitud de factores:
 
