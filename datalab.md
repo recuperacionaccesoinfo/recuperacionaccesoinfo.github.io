@@ -6,13 +6,25 @@ sidebar:
   nav: layouts
 ---
 
-## Cloud Dtalab y notebooks
+## Cloud Datalab y notebooks
+
+Cloud Datalab usa cuadernos en lugar de archivos de texto que contienen código. El manual recopila código,  documentación escrita con markdown y los resultados de la ejecución del código (ya sea como texto, imágenes o HTML/JavaScript). Al igual que un editor de código o un IDE, un cuaderno lo ayuda a ejecutar código de forma interactiva e iterativa y muestra los resultados junto con el código. Además, cuando comparte cuadernos con otros miembros del equipo, puede incluir código, documentación en formato Markdown y resultados que incluyen gráficos interactivos para darles un contexto en el  que los archivos de código  Python o SQL no pueden proporcionar. 
+
+Los cuadernos de Cloud Datalab se pueden almacenar en Google Cloud Source Repository, un repositorio de Git. Este repositorio de Git se clona en un disco persistente adjunto a la máquina virtual. Esta copia forma su espacio de trabajo, donde puede agregar, eliminar y editar archivos. Para compartir su trabajo con otros usuarios del repositorio, debe confirmar sus cambios en el cliente de Git para enviar los cambios desde su lugar de trabajo local al repositorio. Los cuadernos se guardan automáticamente en el disco de forma continua a lo largo del tiempo, pero los usuarios también pueden guardar sus cambios en cualquier momento. Si borra el disco repetidamente, puede perder los cuadernos que no se envían explícitamente al repositorio de Git. Por este motivo, recomendamos NO borrar el disco continuamente.
+
+Cuando se abre un cuaderno, se inicia un  backend "kernel" para administrar las variables definidas en la sesión y ejecutar el código del cuaderno. Cuando el código que se ejecuta accede a los servicios de Google Cloud, como BigQuery o Google Machine Learning Engine, utiliza la cuenta de servicio disponible en la máquina virtual. Por lo tanto, la cuenta de servicio debe estar autorizada para acceder a los datos o solicitar el servicio. Haga clic en el ícono de usuario en la esquina superior derecha de un cuaderno de Cloud Datalab o en la página de la lista de cuadernos en el navegador (es posible que deba cambiar el tamaño de la ventana del navegador) para ver el nombre del proyecto en la nube y las cuentas de servicio. La máquina virtual utilizada para ejecutar Cloud Datalab es un recurso compartido al que pueden acceder todos los miembros asociados con el proyecto en la nube. Por lo tanto, no se recomienda utilizar credenciales personales en la nube para acceder a los datos.
 
 ## Situaciones de uso de Cloud Datalab
 
+Estas son algunas ideas para comenzar en Cloud Datalab:
+
+- Escriba consultas  SQL para explorar los datos de BigQuery. Importe los resultados en un DataFrame y muéstrelos como un histograma o un gráfico de líneas.
+- Lea datos de un archivo CSV en Google Cloud Storage, luego insértelos en un DataFrame para procesar mediciones estadísticas, como la media, la desviación estándar y el cuantil, usando Python.
+- Pruebe un modelo TensorFlow o scikitlearn para predecir resultados o clasificar datos.
+
 ## Bibliotecas incluidas
 
-Estas son las bibliotecas que se incluyen en los notebooks de Cloud Database y que se pueden usar.
+Estas son las bibliotecas que se incluyen en los notebooks de Cloud Datalab y que se pueden usar.
 
 ### Instaladas con Conda
 
@@ -70,7 +82,11 @@ Estas son las bibliotecas que se incluyen en los notebooks de Cloud Database y q
 
 ## Enlaces de interés
 
+[Datalab medium](https://medium.com/google-cloud/tagged/datalab)
+
 [Recuperación y Acceso a la Información](https://recuperacionaccesoinfo.es/)
+
+[TensorFlow vs. Scikit-Learn: How Do They Compare?](https://analytics-proxy.springboard.com/blog/data-science/scikit-learn-vs-tensorflow/)
 
 [Introducción a elasticsearch](https://recuperacionaccesoinfo.es/els.html)
 
