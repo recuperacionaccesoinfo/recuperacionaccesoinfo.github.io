@@ -67,3 +67,13 @@ Estas son las bibliotecas que se incluyen en los notebooks de Cloud Database y q
 >lime at version 0.1.1.23
 >protobuf at version 3.5.2
 >tensorflow at version 1.8.0
+
+## Enlaces de interés
+
+[Recuperación y Acceso a la Información](https://recuperacionaccesoinfo.es/)
+
+[Introducción a elasticsearch](https://recuperacionaccesoinfo.es/els.html)
+[Azure HD Insgihts](https://recuperacionaccesoinfo.es/azure.html)
+[DynamoDB](https://recuperacionaccesoinfo.es/els.html)
+
+Documentación adicional sobre [Recuperación y acceso a la información](https://www.recuperacion-acceso-informacion.es/)
