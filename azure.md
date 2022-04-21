@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Azure
+title: Azure HDInsight 
 permalink: /azure.html
 sidebar:
   nav: layouts
