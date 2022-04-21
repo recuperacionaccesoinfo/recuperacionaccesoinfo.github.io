@@ -73,7 +73,9 @@ Estas son las bibliotecas que se incluyen en los notebooks de Cloud Database y q
 [Recuperación y Acceso a la Información](https://recuperacionaccesoinfo.es/)
 
 [Introducción a elasticsearch](https://recuperacionaccesoinfo.es/els.html)
+
 [Azure HD Insgihts](https://recuperacionaccesoinfo.es/azure.html)
+
 [DynamoDB](https://recuperacionaccesoinfo.es/els.html)
 
 Documentación adicional sobre [Recuperación y acceso a la información](https://www.recuperacion-acceso-informacion.es/)
