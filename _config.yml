@@ -40,7 +40,7 @@ author:
   avatar    : # path or url of avatar image (square)
   bio       : Pagina web de la asignatura de Recuperación y Acceso a la Información
   email     : info@recuperacionaccesoinfo.es
-  facebook  : https://www.facebook.com/profile.php?id=100080655486094 # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
+  facebook  : profile.php?id=100080655486094 # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
@@ -48,8 +48,8 @@ author:
   medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
-  linkedin  : https://www.linkedin.com/in/recuperaci%C3%B3n-acceso-informaci%C3%B3n-749398238/ # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
-  github    : https://github.com/recuperacionaccesoinfo/recuperacionaccesoinfo.github.io # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  linkedin  : recuperaci%C3%B3n-acceso-informaci%C3%B3n-749398238/ # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
+  github    : recuperacionaccesoinfo/recuperacionaccesoinfo.github.io # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
