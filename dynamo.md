@@ -23,6 +23,39 @@ Además un administrador puede ver las métricas de uso de DynamoDB con [Amazon 
 
 ## DynamoDB vs MongoDB
 
+## Elegir entre DinamoDB y MongoDB
+
+Elegir la base de datos correcta no es una elección fácil. Depende de una multitud de factores:
+
+- Requisitos del usuario
+- Implementación
+- Requisitos de almacenamiento
+- Funcionalidad
+- Otros factores
+
+Incluso si comparamos MongoDB y DynamoDB, no podemos compararlos directamente ya que están destinados a diferentes casos de uso.
+
+Por ejemplo, DynamoDB es un servicio de base de datos NoSQL administrado, mientras que MongoDB es un software de base de datos NoSQL. Por lo tanto, la comparación directa más cercana sería  MongoDB Atlas, una base de datos administrada que ofrecen MongoDB Inc y DynamoDB.
+
+Si actualmente utiliza el ecosistema de AWS para implementar y administrar aplicaciones, DynamoDB ofrece lo mejor de:
+
+- Compatibilidad
+- Facilidad de uso
+- Integración
+
+Sin embargo, su principal desventaja  es que el proveedor bloquea al usuario sin la capacidad de modificar fácilmente el entorno de implementación.
+
+Por otro lado, MongoDB Atlas permite a los usuarios usar cualquiera de los proveedores de nube admitidos para:
+
+- Crear un clúster de base de datos MongoDB
+- Migrar a una base de datos MongoDB local con una configuración mínima Mínimo
+
+MongoDB Atlas proporciona una plataforma simple para aprovisionar y administrar MongoDB se agrupa en varias nubes, pero carece de la estrecha integración de un producto integrado como DynamoDB.
+
+Como plataforma madura, MongoDB tiene la ventaja en su conjunto de funciones integradas para la gestión básica de conjuntos de datos  con aserciones de esquemas nativos, soporte para múltiples tipos de índices y más. Además, puede configurarlo para satisfacer la mayoría de las necesidades de la base de datos.
+
+Consulte la documentación oficial de [MongoDB](https://www.mongodb.com/docs/) y [DynamoDB](https://docs.aws.amazon.com/dynamodb/index.html) como la base ideal para profundizar en cada base de datos.
+
 ## Enlaces de interés
 
 [Recuperación y Acceso a la Información](https://recuperacionaccesoinfo.es/)

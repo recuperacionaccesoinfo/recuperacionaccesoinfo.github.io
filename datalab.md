@@ -94,4 +94,4 @@ Estas son las bibliotecas que se incluyen en los notebooks de Cloud Datalab y qu
 
 [DynamoDB](https://recuperacionaccesoinfo.es/els.html)
 
-Documentación adicional sobre [Recuperación y acceso a la información](https://www.recuperacion-acceso-informacion.es/)
+[Documentación adicional sobre Recuperación y acceso a la información](https://www.recuperacion-acceso-informacion.es/)
