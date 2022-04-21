@@ -45,7 +45,7 @@ layouts:
         url:    /azure.html
       - title:  Elastichsearch
         url:    /els.html
-      - title:  Datalab
+      - title:  Cloud Datalab
         url:    /datalab.html
     
 
