@@ -39,8 +39,8 @@ header:
 layouts:
   - title: Contenido
     children:
-      - title:  AWS DinamoDB
-        url:    /dinamo.html
+      - title:  AWS DynamoDB
+        url:    /dynamo.html
       - title:  Azure HD Insight
         url:    /azure.html
       - title:  Elastichsearch
