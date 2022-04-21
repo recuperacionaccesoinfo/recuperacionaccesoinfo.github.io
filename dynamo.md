@@ -16,17 +16,17 @@ DinamoDB hace uso de un modelo de base de datos no relacional lo que permite alm
 
 La seguridad de DynamoDB está mas que garantizada ya que Amazon DynamoDB ofrece control de acceso detallado (FGAC) para que un administrador proteja los datos en una tabla.
 
-FGAC se basa fundamentalmente en el servicio [AWS Identity and Access Management] (https://www.techtarget.com/searchaws/definition/Amazon-Web-Services-AWS-Identity-and-Access-Management-IAM), que se encarga de administarr las credenciales y los permisos.
+FGAC se basa fundamentalmente en el servicio [AWS Identity and Access Management](https://www.techtarget.com/searchaws/definition/Amazon-Web-Services-AWS-Identity-and-Access-Management-IAM), que se encarga de administarr las credenciales y los permisos.
 
-Además un administrador puede ver las métricas de uso de DynamoDB con [Amazon CloudWatch] (https://www.techtarget.com/searchaws/definition/CloudWatch)
+Además un administrador puede ver las métricas de uso de DynamoDB con [Amazon CloudWatch](https://www.techtarget.com/searchaws/definition/CloudWatch)
 
 
 ## DynamoDB vs MongoDB
 
 ## Enlaces útiles
 
-[Recuperación y Acceso a la Información] (https://recuperacionaccesoinfo.es/)
+[Recuperación y Acceso a la Información](https://recuperacionaccesoinfo.es/)
 
-[Introducción a elasticsearch] (https://recuperacionaccesoinfo.es/els.html)
+[Introducción a elasticsearch](https://recuperacionaccesoinfo.es/els.html)
 
-Documentación adicional sobre [Recuperación y acceso a la información] (https://www.recuperacion-acceso-informacion.es/)
+Documentación adicional sobre [Recuperación y acceso a la información](https://www.recuperacion-acceso-informacion.es/)
